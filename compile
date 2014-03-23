@@ -1,0 +1,3 @@
+#! /bin/sh
+
+g++ main.cpp -I/usr/X11R6/include -lX11 -L/usr/X11R6/lib
